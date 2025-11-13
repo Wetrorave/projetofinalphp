@@ -1,6 +1,6 @@
 # projetofinalphp
 
-Integrantes da equipe:
+## Integrantes da equipe:
 
 * Willian Gabriel Félix Farias
 * Nicolas Nery da Silva Feitosa
