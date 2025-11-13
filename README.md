@@ -1,5 +1,7 @@
 # projetofinalphp
 
+Site de avaliação de jogos
+
 ## Integrantes da equipe:
 
 * Willian Gabriel Félix Farias
