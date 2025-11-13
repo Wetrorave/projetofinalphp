@@ -1,6 +1,6 @@
 # projetofinalphp
 
-Site de avaliação de jogos
+Marketplace com cadastro de usuários, cadastro de produtos por vendedor, carrinho simples (sem pagamento real) e listagem de produtos por categoria.
 
 ## Integrantes da equipe:
 
