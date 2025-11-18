@@ -10,8 +10,9 @@
 
     if($resultado){
         echo "<h2>Registro excluído com sucesso.</h2>";
-        echo "<a href='?pg=clientes-admin'>Voltar</a>";
+        echo "<a href='?pg=Cliente/clientes-admin'>Voltar</a>";
     }else{
         echo "<h2>Erro ao excluir registro.</h2>";
-        echo "<a href='?pg=clientes-admin'>Voltar</a>";
+        echo "<a href='?pg=Cliente/clientes-admin'>Voltar</a>";
     }
+
