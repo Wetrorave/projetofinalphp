@@ -4,9 +4,9 @@
 
 <nav>
     <a href="index.php">Inicio</a>
-    <a href="?pg=clientes-admin">Clientes</a>
-    <a href="?pg=paginas-admin">Administra Páginas</a>
-    <a href="?pg=contato-admin">Administrar Contatos</a>
+    <a href="?pg=Cliente/clientes-admin">Clientes</a>
+    <a href="?pg=Cliente/paginas-admin">Administra Páginas</a>
+    <a href="?pg=Cliente/contato-admin">Administrar Contatos</a>
 </nav>
 <?php
     // Conteúdo
@@ -20,3 +20,4 @@
         echo "Página não encontrada";
     }
 ?>
+
