@@ -4,7 +4,7 @@
 
     echo "<h2>Clientes</h2>";
 ?>
-<a href="?pg=clientes-form">Cadastrar novo cliente</a>
+<a href="?pg=Cliente/clientes-form">Cadastrar novo cliente</a>
 
 <?php
     $sql = "SELECT * FROM clientes";
@@ -18,8 +18,8 @@
             echo " | Nome: ".$dados['cliente'];
             echo " | Cidade: ".$dados['cidade'];
             echo " | Estado: ".$dados['estado'];
-            echo " | <a href='?pg=clientes-form-altera&id=$dados[id]'>Editar</a>";
-            echo " | <a href='?pg=clientes-excluir&id=$dados[id]'>Excluir</a>";
+            echo " | <a href='?pg=Cliente/clientes-form-altera&id=$dados[id]'>Editar</a>";
+            echo " | <a href='?pg=Cliente/clientes-excluir&id=$dados[id]'>Excluir</a>";
             echo "<hr>";
         }
     }else{
@@ -29,5 +29,6 @@
     mysqli_close($conexao);
 
 ?>
+
 
 
