@@ -5,8 +5,8 @@
 <nav>
     <a href="index.php">Inicio</a>
     <a href="?pg=Cliente/clientes-admin">Clientes</a>
-    <a href="?pg=Cliente/paginas-admin">Administra Páginas</a>
-    <a href="?pg=Cliente/contato-admin">Administrar Contatos</a>
+    <a href="?pg=produtos/servicos/servicos-admin">Administra Página de corte</a>
+    <a href="?pg=produtos/promo/promo-admin">Administrar Página de promoção</a>
 </nav>
 <?php
     // Conteúdo
