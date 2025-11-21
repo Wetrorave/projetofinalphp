@@ -1,6 +1,6 @@
 # projetofinalphp
 
-O projeto consiste em desenvolver um sistema em PHP para gerenciar uma barbearia, permitindo que clientes agendem horários, barbeiros acompanhem a agenda e o administrador controle serviços, profissionais e relatórios.
+O projeto consiste em desenvolver um marketplace básico de usados, onde diferentes usuários podem se cadastrar, anunciar produtos e interagir com compradores por meio de um sistema simples de listagem e carrinho. É uma versão reduzida dos grandes marketplaces existentes (como OLX), com foco no aprendizado de PHP, banco de dados relacional e uso de sessões.
 
 ## Integrantes da equipe:
 

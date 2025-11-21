@@ -2,16 +2,22 @@
     <div class="container-fluid">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link active" href="?pg=conteudo">Home</a>
+                <a class="nav-link active" href="?pg=conteudo">Início</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="?pg=quemsomos">Quem Somos</a>
+                <a class="nav-link" href="?pg=servicoseprecos">Serviços & Preços</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="?pg=clientes">Clientes</a>
+                <a class="nav-link" href="?pg=faleconosco">Galeria</a>
+            </li>+
+            <li class="nav-item">
+                <a class="nav-link" href="?pg=agenda/agendamento">Agendamento</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="?pg=faleconosco">Fale Conosco</a>
+                <a class="nav-link" href="?pg=faleconosco">Contato</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="?pg=sobremin">Sobre Mim</a>
             </li>
         </ul>
     </div>

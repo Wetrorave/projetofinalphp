@@ -1,16 +1,24 @@
-<h3>Fale Conosco</h3>
-<form action="/action_page.php">
-    <div class="mb-3 mt-3">
-        <label for="email" class="form-label">Email:</label>
-        <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
-    </div>
-    <div class="mb-3">
-        <label for="pwd" class="form-label">Nome:</label>
-        <input type="text" class="form-control" id="pwd" placeholder="Seu nome" name="pswd">
-    </div>
-    <div class="mb-3">
-        <label for="pwd" class="form-label">Mensagem:</label>
-        <textarea type="text" class="form-control" id="pwd" placeholder="Mensagem" name="pswd"></textarea>
-    </div>
-    <button type="submit" class="btn btn-primary">Enviar</button>
-</form>
+<h3>📞 Contato</h3>
+<p>
+<h5>📍 Endereço:</h5>
+Rua das Palmeiras, 428 – Bairro Cidade Verde <br>
+João Pessoa – PB
+
+</p>
+<p>
+<h5>📱 WhatsApp:</h5>
+(83) 9 9876-4321
+</p>
+<p>
+<h5>⏰ Horário de Funcionamento:</h5>
+Segunda a Sexta: 9h às 18h <br>
+Sábado: 8h às 14h <br>
+Domingos e feriados: fechado
+</p>
+<p>
+<h5>📧 E-mail:</h5>
+contato@barbeariapaulo.com
+ </p>
+<p>
+<h5>📍 Como chegar:</h5>
+Ficamos perto da praça principal do bairro Cidade Verde, bem fácil de localizar.</p>
