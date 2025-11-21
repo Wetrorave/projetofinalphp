@@ -8,7 +8,7 @@
                 <a class="nav-link" href="?pg=servicoseprecos">Serviços & Preços</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="?pg=faleconosco">Galeria</a>
+                <a class="nav-link" href="?pg=minhagaleria">Galeria</a>
             </li>+
             <li class="nav-item">
                 <a class="nav-link" href="?pg=agenda/agendamento">Agendamento</a>
