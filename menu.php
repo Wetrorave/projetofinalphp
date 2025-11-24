@@ -11,7 +11,7 @@
                 <a class="nav-link" href="?pg=minhagaleria">Galeria</a>
             </li>+
             <li class="nav-item">
-                <a class="nav-link" href="?pg=agenda/agendamento">Agendamento</a>
+                <a class="nav-link" href="?pg=admin/agenda/agendamento">Agendamento</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="?pg=faleconosco">Contato</a>
