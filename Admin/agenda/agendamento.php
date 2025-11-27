@@ -46,10 +46,11 @@
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Pega o dia da semana (0 = domingo, 6 = sábado)
-    $diaSemana = date('w', strtotime($_POST['data']));
+    $diaSemana = date('w', strtotime($_POST['data1']));
 
     if ($diaSemana == 0 || $diaSemana == 6) {
         echo "<p style='color:red;'>❌ Não é permitido agendar no sábado ou domingo.</p>";
     }
 }
 ?>
+
