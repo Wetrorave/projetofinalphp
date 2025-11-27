@@ -15,23 +15,24 @@
         <input type="date" name="data1" required min="<?php echo date('Y-m-d'); ?>"><br>
 
     <label for="horario">Selecione o Horário:</label>
-    <select name="hora">
-        <?php
-            // Loop para as 24 horas do dia (0 a 23)
-            for ($hora = 8; $hora <= 17; $hora++) {
-                // Loop para os minutos (0 e 30)
-                foreach (['00', '30'] as $minuto) {
-                    // Formata a hora para ter sempre dois dígitos (ex: 09, 12)
-                    $hora_formatada = str_pad($hora, 2, '0', STR_PAD_LEFT);
-                    
-                    // Concatena para formar o valor
-                    $valor = $hora_formatada . ':' . $minuto;
-                    
-                    // Imprime a tag <option>
-                    echo '<option value="' . $valor . '">' . $valor . '</option>' . "\n";
-                }
-            }
-        ?>
+    <select name="hora" required>
+        <option>07:00</option>
+        <option>07:30</option>
+        <option>08:00</option>
+        <option>08:30</option>
+        <option>09:00</option>
+        <option>09:30</option>
+        <option>10:00</option>
+        <option>10:30</option>
+        <option>11:00</option>
+        <option>11:30</option>
+        <option>13:30</option>
+        <option>14:00</option>
+        <option>14:30</option>
+        <option>15:00</option>
+        <option>15:30</option>
+        <option>16:00</option>
+        <option>16:30</option>
     </select>
     <input type="submit" value="Agendar">
 
@@ -40,3 +41,4 @@
 </body>
 
 </html>
+
