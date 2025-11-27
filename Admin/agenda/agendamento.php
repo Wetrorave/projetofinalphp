@@ -12,7 +12,7 @@
         <label>telefone</label>
         <input type="text" name="telefone" placeholder="Telefone"><br>
         <label>data</label>
-        <input type="date" name="data1" ><br>
+        <input type="date" name="data1" required min="<?php echo date('Y-m-d'); ?>"><br>
 
     <label for="horario">Selecione o Horário:</label>
     <select name="hora">
@@ -38,4 +38,5 @@
 </form>
 
 </body>
+
 </html>
