@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Site Institucional</title>
+    <title>Barbearia do Paulo</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -101,6 +101,6 @@
 <body>
 <header class="navbar navbar-expand-sm bg-light navbar-light">
     <div class="container-fluid">
-       <h2>Site Institucional</h2>
+       <h2>Barbearia do Paulo</h2>
     </div>
 </header>
