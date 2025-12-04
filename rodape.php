@@ -19,7 +19,7 @@
 </style>
 
 <footer class="footer-compacto text-center text-muted">
-    <strong>Barbearia Estilo & Corte</strong> 
+    <strong>Barbearia do Paulo - Estilo & cortes</strong> 
     <span class="mx-2">|</span> 
     <?php echo date('Y'); ?> &copy; Direitos Reservados
 </footer>
